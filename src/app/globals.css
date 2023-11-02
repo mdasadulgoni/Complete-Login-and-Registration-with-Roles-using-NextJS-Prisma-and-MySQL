@@ -1,11 +1,13 @@
 .customcss{
     border: 1px solid #212529;
-    /* border-radius: 0%; */
     width: 50%;
     margin: 120px auto;
 }
 div h1{
     color: green;
     text-align: center;
-    margin-top: 150px;
+    /* margin-top: 150px; */
+}
+.bt-syle{
+    margin-left: 43%;
 }

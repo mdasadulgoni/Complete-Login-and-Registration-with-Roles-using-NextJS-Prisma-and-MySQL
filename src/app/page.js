@@ -104,7 +104,7 @@ function Home() {
             </form>
           </div>
           <div className="card-footer text-center bg-dark">
-            <button className="btn btn-primary" onClick={submit}>Login Now</button>
+            <button className="btn btn-success" onClick={submit}>Login Now</button>
           </div>
         </div>
       </div>
